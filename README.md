@@ -1,2 +1,4 @@
-# Forum Alura Api 
-Spring Boot API Rest
+# Forum Alura - Spring Boot API
+
+## 🛠️ Tecnologias utilizadas:
+* MySQL, JPA, Spring Boot, Spring Security com JWT
